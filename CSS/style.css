@@ -163,7 +163,6 @@ html{
 }
 
 .greenbg{
-
 	width: 100%;
     position: relative;
     background: url(../images/sellbtcbg.png) center bottom no-repeat;
@@ -359,6 +358,8 @@ opacity:0;
     box-shadow: 0 10px 29px 0 rgb(68 88 144 / 10%);
     color: black;
     padding:30px;
+
+ 
 }
 
 .card:hover{
@@ -1199,17 +1200,7 @@ text-decoration: underline;
 
    
   .card {
-    /*margin-bottom: 50px;
-    background-color: white;
-    border-radius: 10px;
-    background: #fff;
-    box-shadow: 0 10px 29px 0 rgb(68 88 144 / 10%);
-    color: black;
-    width:130%;
-   
 
-       padding: 30px;*/
-       width:120%;
        padding:10px;
     border-radius: 10px;
     margin: 0 10px 40px 10px;
